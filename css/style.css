@@ -1,0 +1,61 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+
+}
+  header{
+ 	background-image:url(../images/done.png);
+ 	height: 100vh;
+ 	background-size: cover;
+ 	background-position: center;
+ }
+
+ .first ul{
+ 	float: right;
+ 	
+
+ }
+
+.first li{
+	display: inline-block;
+
+    margin-top: 20px;
+}
+  
+  .first a{
+  	font-family:TAHOMA;
+  	text-decoration:none;
+  	padding: 5px 15px;
+  	color: white;
+  	font-weight: 100;
+  	font-size: 20px;
+    border: 1px solid white transparent;
+    margin: 10px;
+    text-align: center;
+    transition: 0.6s ease;
+
+  }
+  a:hover{
+  	background-color: white;
+  	color: black;
+  }
+  .home a{
+ 	background-color: white;
+  	color: black;
+ }
+
+ .heading{
+ 	font-family: arial,helvetica;
+ 	font-weight: 800;
+ 	color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    font-size: 20px;
+    border:3px solid white;
+    padding: 20px;
+   
+ }
+   
+ 

@@ -1,0 +1,64 @@
+*{padding: 0;
+	margin: 0;
+	
+}
+body{
+	background-image: url(../images/yo.png);
+	height: 170vh;
+ 	background-size: cover;
+ 	background-position: center;
+}
+
+
+.second ul{
+ 	float: right;
+ }
+
+.second li{
+	display: inline-block;
+
+    margin-top: 20px;
+}
+ a{
+  	font-family:TAHOMA;
+  	text-decoration:none;
+  	padding: 5px 15px;
+  	color: white;
+  	font-weight: 100;
+    border: 2px solid white transparent;
+    margin: 10px;
+    text-align: center;
+    font-size: 17px;
+    transition: 0.6s ease;
+
+  }
+  a:hover{
+  	background-color: black;
+  	color: white;
+  }
+  .about a{
+ 	background-color: black;
+  	color: white;
+ }
+
+h1 {
+   color: white;
+  padding: 55px;
+  text-align: center;
+  text-decoration: underline;
+}
+p{  
+    
+    font-family: tahoma;
+   color: white;
+   margin: 20px;
+   padding-left: 200px;
+   padding-right: 200px;
+  text-align: center;
+  border:30px;
+}
+
+.pic {
+  padding: 0;
+ text-align: center;
+}
